@@ -1,0 +1,15 @@
+{
+    "postRequestBody" : {
+        "firstName": "Linare",
+        "lastName": "Lkjnv",
+        "email": "Lina_Lkjnv12@gmail.com",
+        "dob": "2000-01-04"
+    },
+    "putRequestBody" : {
+        "firstName": "updateLina",
+        "lastName": "updateLkjnv",
+        "email": "updateLina_Lkjnv@gmail.com",
+        "dob": "1998-12-22"
+    }
+
+}
